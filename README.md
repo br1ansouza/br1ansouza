@@ -20,10 +20,12 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas.
 ##
 
 📈 Minhas estatísticas no GitHub:
-<div>
-    <img href="https://github.com/br1ansouza" height="165em" src="https://github-readme-stats.vercel.app/api?username=br1ansouza&theme=blueberry&count_private=true&hide_border=true&line_height=20" alt="GitHub Stats"> 
-    <img href="https://github.com/br1ansouza" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=br1ansouza&layout=compact&theme=blueberry&count_private=true&hide_border=true" alt="Top Langs"> 
-</div>
+<a href="https://github.com/br1ansouza" target="_blank" rel="noopener noreferrer">
+    <div>
+        <img height="165em" src="https://github-readme-stats.vercel.app/api?username=br1ansouza&theme=blueberry&count_private=true&hide_border=true&line_height=20" alt="GitHub Stats"> 
+        <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=br1ansouza&layout=compact&theme=blueberry&count_private=true&hide_border=true" alt="Top Langs"> 
+    </div>
+</a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/br1ansouza/br1ansouza/output/github-contribution-grid-snake-dark.svg">
