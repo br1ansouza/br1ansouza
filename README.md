@@ -1,6 +1,12 @@
 ## 👋 Olá, bem-vindo ao meu perfil no GitHub!
 
 Sou um estudante de Análise e Desenvolvimento de Sistemas.
+<div align="center" style="margin: 20px 0;">
+    <img 
+        alt="gato" 
+        src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjloaTgwa2dkMXFiMGs4d3B5eTVvbWlsejZsMmozbHNsZ3VjemQzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E6jscXfv3AkWQ/giphy.webp" 
+        style="border-radius: 15px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); max-width: 200px; width: 20%;">
+</div>
 
 🚀 Tecnologias que utilizo atualmente:
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
