@@ -8,20 +8,23 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas.
         style="border-radius: 15px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); max-width: 200px; width: 20%;">
 </div>
 
-🚀 Tecnologias que utilizo atualmente:
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+🚀 **Tecnologias que utilizo atualmente:**
+<div align="center" gap: 10px;">
   <img alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
   <img alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> 
   <img alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
   <img alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </div>
 
 ##
 
 📈 Minhas estatísticas no GitHub:
-<a href="https://github.com/br1ansouza" target="_blank" rel="noopener noreferrer">
-    <div>
+<a href="https://github.com/br1ansouza" target="_blank" rel="noopener noreferrer ">
+    <div align="center">
         <img height="165em" src="https://github-readme-stats.vercel.app/api?username=br1ansouza&theme=blueberry&count_private=true&hide_border=true&line_height=20" alt="GitHub Stats"> 
         <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=br1ansouza&layout=compact&theme=blueberry&count_private=true&hide_border=true" alt="Top Langs"> 
     </div>
