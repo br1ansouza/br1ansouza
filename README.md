@@ -25,8 +25,8 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas.
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroJanneo/PedroJanneo/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PedroJanneo/PedroJanneo/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PedroJanneo/PedroJanneo/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/br1ansouza/br1ansouza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/br1ansouza/br1ansouza/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/br1ansouza/PedroJanneo/output/github-contribution-grid-snake.svg">
 </picture>
 
