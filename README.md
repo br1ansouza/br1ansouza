@@ -27,7 +27,7 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas.
 <a href="https://github.com/br1ansouza" target="_blank" rel="noopener noreferrer ">
     <div align="center">
         <img height="165em" src="https://github-readme-stats.vercel.app/api?username=br1ansouza&theme=blueberry&count_private=true&hide_border=true&line_height=20" alt="GitHub Stats"> 
-        <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=br1ansouza&layout=compact&theme=blueberry&count_private=true&hide_border=true" alt="Top Langs"> 
+        <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=br1ansouza&layout=compact&theme=blueberry&count_private=true&hide_border=true" alt="Top Langs">
     </div>
 </a>
 
