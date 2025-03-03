@@ -1,4 +1,4 @@
-## 👋 Olá, bem-vindo ao meu perfil no GitHub!
+##  Bem-vindo ao meu perfil no GitHub!
 
 Sou um estudante de Análise e Desenvolvimento de Sistemas.
 <div align="center" style="margin: 20px 0;">
@@ -8,7 +8,7 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas.
         style="border-radius: 15px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); max-width: 200px; width: 20%;">
 </div>
 
-🚀 **Tecnologias que utilizo atualmente:**
+ **Tecnologias que utilizo atualmente:**
 <div align="center" gap: 10px;">
   <img alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
