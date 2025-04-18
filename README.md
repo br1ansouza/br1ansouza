@@ -1,6 +1,10 @@
 ##  Bem-vindo ao meu perfil no GitHub!
 
-Sou um estudante de Análise e Desenvolvimento de Sistemas.
+Este é o repositório do meu portfólio pessoal desenvolvido com React + TypeScript, hospedado na Netlify.
+
+🔗 Acesse o projeto online:
+https://portfolio-br1an.netlify.app
+
 <div align="center" style="margin: 20px 0;">
     <img 
         alt="gato" 
