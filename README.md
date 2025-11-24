@@ -12,16 +12,6 @@ https://portfolio-br1an.netlify.app
         style="border-radius: 15px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); max-width: 200px; width: 20%;">
 </div>
 
-##
-
-📈 Minhas estatísticas no GitHub:
-<a href="https://github.com/br1ansouza" target="_blank" rel="noopener noreferrer ">
-    <div align="center">
-        <img height="165em" src="https://github-readme-stats.vercel.app/api?username=br1ansouza&theme=blueberry&count_private=true&hide_border=true&line_height=20" alt="GitHub Stats"> 
-        <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=br1ansouza&layout=compact&theme=blueberry&count_private=true&hide_border=true" alt="Top Langs">
-    </div>
-</a>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/br1ansouza/br1ansouza/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/br1ansouza/br1ansouza/output/github-contribution-grid-snake.svg">
