@@ -59,8 +59,7 @@ Bachelor's in Systems Analysis and Development, currently pursuing a postgraduat
 </table>
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=br1ansouza&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=br1ansouza&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9" />
+  <img src="https://streak-stats.demolab.com?user=br1ansouza&theme=github-dark-blue&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353&sideLabels=c9d1d9&dates=c9d1d9&sideNums=c9d1d9&currStreakNum=39d353" />
 </div>
 
 <div align="center">
