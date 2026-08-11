@@ -13,7 +13,6 @@ Frontend developer focused on building scalable and high-performance interfaces 
 Bachelor's in Systems Analysis and Development, currently pursuing a postgraduate degree in DevOps.
 
 **Portfolio:** https://br1ansouza.github.io/portfolio-v3/ 
-→ Projects focused on performance, usability and real-world scenarios
 
 ### Tech Stack
 
