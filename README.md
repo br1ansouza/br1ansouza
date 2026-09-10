@@ -57,16 +57,4 @@ Bachelor's in Systems Analysis and Development, currently pursuing a postgraduat
   </tr>
 </table>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=br1ansouza&theme=github-dark-blue&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353&sideLabels=c9d1d9&dates=c9d1d9&sideNums=c9d1d9&currStreakNum=39d353" />
-</div>
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/br1ansouza/br1ansouza/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/br1ansouza/br1ansouza/output/github-contribution-grid-snake.svg">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/br1ansouza/br1ansouza/output/github-contribution-grid-snake-dark.svg">
-</picture>
-</div>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0d4429,60:006d32,100:39d353&height=120&section=footer" />
