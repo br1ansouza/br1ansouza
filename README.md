@@ -53,6 +53,7 @@ Bachelor's in Systems Analysis and Development, currently pursuing a postgraduat
     <td>
       <img src="https://img.shields.io/badge/Ruby-0d1117?style=flat-square&logo=ruby&logoColor=CC342D&labelColor=0d1117&color=6e3535" />
       <img src="https://img.shields.io/badge/Svelte-0d1117?style=flat-square&logo=svelte&logoColor=FF3E00&labelColor=0d1117&color=6e431f" />
+      <img src="https://img.shields.io/badge/Kotlin-0d1117?style=flat-square&logo=kotlin&logoColor=7F52FF&labelColor=0d1117&color=5b3cc4" />
     </td>
   </tr>
 </table>
