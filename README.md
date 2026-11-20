@@ -6,13 +6,22 @@
 
 </div>
 
-### About
+<div align="center">
+<a href="https://br1ansouza.github.io/portfolio-v3/">
+    <img src="https://img.shields.io/badge/VIEW%20PORTFOLIO-39D353?style=for-the-badge&logo=googlechrome&logoColor=0D1117" alt="View portfolio" />
+  </a>
+</div>
 
-Frontend developer focused on building scalable and high-performance interfaces using React and TypeScript. Experience with test automation using Playwright and working in monorepo environments. Currently expanding into mobile development with React Native and backend integrations with Node.js.
+</div>
 
-Bachelor's in Systems Analysis and Development, currently pursuing a postgraduate degree in DevOps.
+<br />
 
-**Portfolio:** https://br1ansouza.github.io/portfolio-v3/ 
+## About
+
+Frontend developer focused on building scalable and high-performance interfaces using **React and TypeScript**. Experience with test automation using **Playwright** and working in **monorepo environments**. Currently expanding into mobile development with **React Native** and backend integrations with **Node.js**.
+
+> Bachelor's in Systems Analysis and Development, currently pursuing a postgraduate degree in DevOps.
+
 
 ### Tech Stack
 
